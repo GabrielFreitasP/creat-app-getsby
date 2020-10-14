@@ -18,7 +18,7 @@ module.exports = {
         short_name: `Site`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#080b24`,
+        theme_color: `#2196f3`,
         display: `standalone`,
         icon: `src/assets/icon.png`,
       },
@@ -33,7 +33,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-nprogress`,
       options: {
-        color: `#080b24`,
+        color: `#2196f3`,
       },
     },
     {

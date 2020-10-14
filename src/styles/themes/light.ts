@@ -1,4 +1,4 @@
 export default {
   background: '#fff',
-  primary: '#080b24',
+  primary: '#2196f3',
 };
